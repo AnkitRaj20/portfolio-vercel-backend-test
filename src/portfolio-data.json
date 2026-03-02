@@ -1,0 +1,86 @@
+{
+  "templateId": "tech",
+  "primaryColor": "#00d4ff",
+  "accentColor": "#a855f7",
+  "portfolioData": {
+    "personal": {
+      "name": "test six",
+      "title": "Mobile Developer",
+      "email": "alex@example.com",
+      "location": "San Francisco, CA",
+      "shortBio": "Hi, I'm test six, a Mobile Developer specializing in React and Node.js.",
+      "bio": "I'm a early-career mobile developer focused on building reliable, user-centered products. I enjoy turning complex requirements into practical solutions and continuously improving with every project."
+    },
+    "seo": {},
+    "social": {
+      "github": "https://github.com/alexchen",
+      "linkedin": "https://linkedin.com/in/alexchen",
+      "twitter": "https://twitter.com/alexchen",
+      "website": "https://alexchen.dev"
+    },
+    "skills": [
+      "React",
+      "Node.js"
+    ],
+    "projects": [
+      {
+        "id": "3699ecdf-2224-4a91-bad5-8a49f2eb6e06",
+        "title": "Fitness Tracking App — Sample Project",
+        "description": "Built a mobile app with activity logging, streaks, and progress insights. Sample Project - Replace with your own.",
+        "image": "",
+        "tags": [
+          "React",
+          "Node.js"
+        ],
+        "github": "",
+        "demo": "",
+        "featured": true,
+        "visible": true
+      },
+      {
+        "id": "749079d7-b39c-44ad-b530-a6835245181b",
+        "title": "Food Delivery Companion — Sample Project",
+        "description": "Implemented mobile-first browsing, ordering flows, and live order status. Sample Project - Replace with your own.",
+        "image": "",
+        "tags": [
+          "React",
+          "Node.js"
+        ],
+        "github": "",
+        "demo": "",
+        "featured": false,
+        "visible": true
+      },
+      {
+        "id": "76c4521f-94c9-447e-b58e-4c3ecbb15270",
+        "title": "Personal Finance Mobile App — Sample Project",
+        "description": "Created budgeting and transaction analytics experience optimized for mobile. Sample Project - Replace with your own.",
+        "image": "",
+        "tags": [
+          "React",
+          "Node.js"
+        ],
+        "github": "",
+        "demo": "",
+        "featured": false,
+        "visible": true
+      }
+    ],
+    "experience": [],
+    "education": [],
+    "sectionConfig": []
+  },
+  "sectionStyles": {
+    "projects": "cards-modern",
+    "experience": "timeline-classic",
+    "education": "timeline-classic"
+  },
+  "sectionOrder": [
+    "projects",
+    "experience",
+    "education"
+  ],
+  "navbarStyle": "nav-glass",
+  "footerStyle": "footer-social",
+  "heroStyle": "hero-default"
+}
